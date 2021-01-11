@@ -87,6 +87,38 @@ Complexity and distractions are downright annoying. There are three kinds of noi
 - **Highlight key terms.** bold the important parts of the text on their first occurrence to make them easier to find. But don't overdo it.
 
 
+## Chapter 4 - Animal, Vegetables and minerals
+
+> It doesn’t matter how many times I have to click, as long as each click is a mindless, unambiguous choice.—KRUG’S SECOND LAW OF USABILITY
+
+In most cases, if a user wants to reach a certain page clicks should be simple. Here, simple means, the decision to click should be easy. If a long thought is required to click due to the uncertainty, that's a bad sign.
+
+There is still value in fewer clicks when the need is very frequent. Also when the page load time increases, the value of fewer click increases as well.
+
+Avoid presenting many choices based details from the beginning, take the first step of taking the user to a particular screen and then ask for details.
+
+Scenario 1 - **Avoid**
+- Member login - fill details
+- Not a member - subscriber login? - fill details
+- Not a member OR subscriber - sign up
+
+Scenario 2 - **Better**
+- 2.1 Ask for choice
+  - Members -> go here to login
+  - Not a subscriber -> subscribe here
+- 2.2 (Member login page) or (Subscriber signup page)
+
+Though scenario 2 will require an extra click to get to the page with a form, this will simplify user decision to focus on just one form.
+
+In scenario 1, the user would be presented with both forms in the first screen itself causing fatigue to go through all info just to discard useless info.
+
+The main crux, make the choice easy to make for the user. And if it is difficult, then guide the user.
+Guidance should be
+- **Brief** - crisp information, easy to read
+- **Timely** - should be around the place I need to act (tooltips, ? icon, what's this link).
+- **Unavoidable** - Make sure it gets noticed.
+
+
 
 
 
