@@ -119,6 +119,29 @@ Guidance should be
 - **Unavoidable** - Make sure it gets noticed.
 
 
+## Chapter 5 - Omit needless words
+
+> Get rid of half the words on each page, then get rid of half of what’s left. — KRUG’S THIRD LAW OF USABILITY
+
+> Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts — William Strunk, Jr., and E. B. White, The Elements of Style (Allyn and Bacon, 1979).
+
+Get rid of extra words which do not add much value to the content
+- It reduces the noise level
+- make the content more prominent
+- makes pages shorter, easier to scan without scrolling.
+
+### Happy talk must die
+
+When there is no value in filling the page with words providing no real information. for eg introductory text. it is like wasting time.
+
+Get to the point directly. Most web users don't have time to small talk when they arrive at your page.
+
+### Instructions must die
+
+Majority of users don't read, and if they repeatedly fail on their task, then they might read it, but if the instruction itself is a big block of words, the user may not find it there.
+
+The objective should be to eliminate by making things self-explanatory. And bare minimum instructions if necessary.
+
 
 
 
